@@ -7,8 +7,7 @@ Analyze company data and generate insight the organization needs to address gend
 
 Here is the breakdown of gender distribution across departments and regions:
 
-![Gender distributn by rating table](https://github.com/user-attachments/assets/0296fd90-dcac-4c68-be98-a37c213701a8)
-
+![Gender distribution by dept   locatn](https://github.com/user-attachments/assets/1191b421-783d-4d05-ad1b-3d5e5b7ec415)
 
 #### Department	Female	Male
 
