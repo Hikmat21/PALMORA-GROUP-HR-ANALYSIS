@@ -16,14 +16,6 @@ This will show how performance ratings are distributed between males and females
 
 ![Gender distributn by rating table](https://github.com/user-attachments/assets/49f5563f-a746-447c-8bec-8541ac428a72)
 
-#### Raw Rating Counts
-
-Gender	Average	Good	Very Good	Poor	Very Poor	Not Rated
-
-Female	208	95	50	58	20	40
-Male	232	87	38	73	34	37
-
-
 #### Percentage Distribution
 
 Gender	Average	Good	Very Good	Poor	Very Poor	Not Rated
