@@ -9,39 +9,6 @@ Here is the breakdown of gender distribution across departments and regions:
 
 ![Gender distribution by dept   locatn](https://github.com/user-attachments/assets/1191b421-783d-4d05-ad1b-3d5e5b7ec415)
 
-#### Department	Female	Male
-
-Accounting	14	16
-Business Development	17	15
-Engineering	13	8
-Human Resources	17	19
-Legal	14	18
-Marketing	10	19
-Product Management	12	15
-Research & Development	11	11
-Sales	14	19
-Services	16	16
-Support	16	16
-Training	16	19
-
-
-### Lagos
-
-#### Department	Female	Male
-
-Accounting	6	8
-Business Development	13	14
-Engineering	12	16
-Human Resources	9	7
-Legal	11	10
-Marketing	12	8
-Product Management	13	12
-Research & Development	16	7
-Sales	9	11
-Services	12	12
-Support	4	10
-Training	7	13
-
 ## 2. Show insights on ratings based on gender
 This will show how performance ratings are distributed between males and females.
 
