@@ -7,11 +7,8 @@ Analyze company data and generate insight the organization needs to address gend
 
 Here is the breakdown of gender distribution across departments and regions:
 
-### Abuja
+![Gender distributn by rating table](https://github.com/user-attachments/assets/0296fd90-dcac-4c68-be98-a37c213701a8)
 
-#### Department 	Female  	Male
-
-### Kaduna
 
 #### Department	Female	Male
 
