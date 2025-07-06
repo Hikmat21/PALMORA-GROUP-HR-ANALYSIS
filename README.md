@@ -73,12 +73,6 @@ Band ($)
 
 
 This shows how many employees in each region fall into each salary bracket.
-- Example:
-
-Name	Dept	Rating	Salary	Bonus %	Bonus	Total Pay
-
-John Doe	Sales	Good	100,000	5.1%	5,100	105,100
-Jane Smith	Legal	Very Good	95,000	6.4%	6,080	101,080
 
 ### Total Payout Analysis
 
@@ -86,14 +80,11 @@ Per Region
 
 #### 2. Sum:
 
-Total Salary
+Total Salary = $348,618,350
 
-Total Bonus
+Total Bonus = 163.36
 
-Grand Total (Salary + Bonus)
-
-
-
+Grand Total (Salary + Bonus) =
 
 Company-wide Totals
 
