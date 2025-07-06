@@ -21,6 +21,7 @@ This will show how performance ratings are distributed between males and females
 Gender	Average	Good	Very Good	Poor	Very Poor	Not Rated
 
 Female	44.16%	20.17%	10.62%	12.31%	4.25%	8.49%
+
 Male	46.31%	17.37%	7.58%	14.57%	6.79%	7.39%
 
 
