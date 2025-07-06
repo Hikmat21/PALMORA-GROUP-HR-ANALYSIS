@@ -33,8 +33,6 @@ Male:	46.31%	17.37%	7.58%	14.57%	6.79%	7.39%
 
 - Males receive more "Poor" and "Very Poor" ratings than females.
 
-- The "Not Rated" category is nearly equal between both genders.
-
 ## 3. Salary Structure Analysis & Gender Pay Gap
 
 ### Average Salary by Gender 
