@@ -61,11 +61,18 @@ $10,000–19,999, $20,000–29,999, ..., $100,000+
 
 Based on the structure and expected distribution from earlier data, 
 
-Band ($)
-10,000–19,999= 5     
-20,000–29,999= 12    
-90,000–99,999= 84    
-100,000+     = 67    
+Band ($)           Abuja        Kaduna           Lagos
+10,000–20,000         0            0                0
+20,000–30,000         9           13                6
+30,000-40,000         37          39               25  
+40,000-50,000        45           33               27
+50,000-60,000        37           41               18
+60,000-70,000        36           37               26
+70,000-80,000        35           48               34
+80,000-90,000        39           39               30
+90,000-10,000        29           32               29
+100,000-110,000      39           41               25
+110,000-120,000      29           38               30
 
 ### Visualizing by Region
 
@@ -76,24 +83,16 @@ This shows how many employees in each region fall into each salary bracket.
 
 ### Total Payout Analysis
 
-Per Region
-
 #### 2. Sum:
 
 Total Salary = $348,618,350
 
 Total Bonus = 163.36
 
-Grand Total (Salary + Bonus) =
+## Company-wide Totals
 
-Company-wide Totals
+### Region	Total 
 
-Add all regional totals.
-
-
-Region	Total Salary	Total Bonus	Total Payout
-
-Abuja	$X	$Y	$X + Y
-Kaduna	$A	$B	$A + B
-Lagos	$C	$D	$C + D
-Total	$Total Salary	$Total Bonus	$Total Payout
+Abuja   24116280
+Kaduna  26652820
+Lagos   18954570
