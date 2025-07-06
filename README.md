@@ -14,7 +14,7 @@ This will show how performance ratings are distributed between males and females
 
 ### Insights on Ratings Based on Gender
 
-![Gender distributn by rating table](https://github.com/user-attachments/assets/49f5563f-a746-447c-8bec-8541ac428a72)
+![Pamora 2 1](https://github.com/user-attachments/assets/8cd4cf15-89ab-4867-9497-e6da857f22b6)
 
 #### Percentage Distribution
 
