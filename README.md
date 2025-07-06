@@ -18,11 +18,11 @@ This will show how performance ratings are distributed between males and females
 
 #### Percentage Distribution
 
-Gender	Average	Good	Very Good	Poor	Very Poor	Not Rated
+Gender:	Average	Good	Very Good	Poor	Very Poor	Not Rated
 
-Female	44.16%	20.17%	10.62%	12.31%	4.25%	8.49%
+Female:	44.16%	20.17%	10.62%	12.31%	4.25%	8.49%
 
-Male	46.31%	17.37%	7.58%	14.57%	6.79%	7.39%
+Male:	46.31%	17.37%	7.58%	14.57%	6.79%	7.39%
 
 
 ## Key Insights
@@ -38,8 +38,8 @@ Male	46.31%	17.37%	7.58%	14.57%	6.79%	7.39%
 ## 3. Salary Structure Analysis & Gender Pay Gap
 
 ### Average Salary by Gender 
-- Female: $91,270 (approx.)
-- Male: $95,110 (approx.)
+
+![Avg  salary by gender](https://github.com/user-attachments/assets/29bafef5-dd50-47eb-92e0-5105c328e598)
 
 There is a gender pay gap, with males earning more on average than females.
 
