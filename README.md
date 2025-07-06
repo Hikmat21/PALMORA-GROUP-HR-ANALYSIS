@@ -69,6 +69,8 @@ Band ($)
 
 ### Visualizing by Region
 
+![SALARY BAND](https://github.com/user-attachments/assets/dbadc32a-fe6c-411a-a9be-230dc7ac3b24)
+
 
 This shows how many employees in each region fall into each salary bracket.
 - Example:
