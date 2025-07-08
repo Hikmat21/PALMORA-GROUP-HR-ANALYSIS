@@ -71,7 +71,7 @@ We need to identify if any employees fall below $90,000, and if so, how many.
 
 ## Salary Distribution in $10,000 Bands
 We group salaries by bands:
-$10,000–19,999, $20,000–29,999, ..., $100,000+
+$10,000–$20.000, $20,000–$30,000, ..., $100,000+
 
 Based on the structure and expected distribution from earlier data, 
 
