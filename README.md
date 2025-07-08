@@ -77,7 +77,7 @@ Based on the structure and expected distribution from earlier data,
 
 Band ($)                 |      Abuja             |  Kaduna              |     Lagos
 -----------------------------------------------------------------------------------
-10,000–20,000:-:           0:-:                     0 :-:                         0
+10,000–20,000:-:         |  0:-:                  |   0 :-:              |           0
 
 20,000–30,000  =            9                     13                         6
 
