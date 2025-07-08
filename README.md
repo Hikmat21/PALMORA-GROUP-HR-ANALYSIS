@@ -1,6 +1,20 @@
 # PALMORA-GROUP-HR-ANALYSIS
 Analyze company data and generate insight the organization needs to address gender-related issues. 
 
+## Steps:
+
+- Cleaning of Data
+
+- Assigning generic gender for employees with missing or undisclossed gender represented with unknown.
+
+- Employee with no salary is filter
+
+- Rows with null department was removed. This is done to ensure only active employee with valid department information.
+
+- Stacked column was used for the Gender Distribution by Region and Department.
+
+- A Donut chart was used to visualize the performance rating by Gender.
+
 ## 1. What is the gender distribution in the organization? Distil to regions and departments.
 
 ### Gender Distribution by Region and Department
@@ -109,3 +123,16 @@ Abuja           24116280
 Kaduna          26652820
 
 Lagos          18954570
+
+## Recommendations for Achieving Pay Equity*
+
+- Equal Pay Adjustments: Create targeted pay equity adjustments to address existing disparities.
+
+- Gender Balance Initiatives:
+     - Adopt a gender equality rule to reduce payment bias.
+     -  Ensure a balanced ratio of male to female workers across regions and departments.
+
+- Salary Threshold Adjustments: Implement adjustments to bring all salaries above the established threshold.
+
+- Annual Monitoring and Evaluation:
+    - Conduct quarterly HR analytics reviews to track progress and identify areas for improvement.
