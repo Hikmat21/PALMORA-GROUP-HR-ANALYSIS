@@ -126,17 +126,17 @@ Lagos          18954570
 
 ## Recommendations for Achieving Pay Equity
 
-#### Equal Pay Adjustments:
+- Equal Pay Adjustments:
      - Create targeted pay equity adjustments to address existing disparities.
 
-#### Gender Balance Initiatives:
+- Gender Balance Initiatives:
      - Adopt a gender equality rule to reduce payment bias.
      -  Ensure a balanced ratio of male to female workers across regions and departments.
 
-#### Salary Threshold Adjustments:
+- Salary Threshold Adjustments:
      -  Implement adjustments to bring all salaries above the established threshold.
 
-####  Annual Monitoring and Evaluation:
+- Annual Monitoring and Evaluation:
      -  Conduct quarterly HR analytics reviews to track progress and identify areas for improvement.
  
 ##  Conclusion
