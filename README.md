@@ -75,7 +75,7 @@ $10,000–19,999, $20,000–29,999, ..., $100,000+
 
 Based on the structure and expected distribution from earlier data, 
 
-Band ($)                  Abuja                Kaduna                      Lagos
+Band ($) ,                  Abuja ,                Kaduna ,                     Lagos
 
 10,000–20,000  =            0                     0                          0
 
