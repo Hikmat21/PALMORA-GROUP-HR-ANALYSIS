@@ -136,3 +136,7 @@ Lagos          18954570
 
 - Annual Monitoring and Evaluation:
     - Conduct quarterly HR analytics reviews to track progress and identify areas for improvement.
+ 
+##  Conclusion
+
+The analysis highlights notable gender-based pay gaps across regions and departments. Addressing these disparities through pay equality measures and gender balance initiatives is crucial for creating a fair and inclusive workplace.
